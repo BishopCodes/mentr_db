@@ -1,0 +1,21 @@
+{
+  "SkillTag": {
+    "id": {
+      "regexp": "[0-9a-fA-F]{8}\b-[0-9a-fA-F]{4}\b-[0-9a-fA-F]{4}\b-[0-9a-fA-F]{4}\b-[0-9a-fA-F]{12}"
+    }, 
+    "name": {
+      "string": [
+        "Frontend",
+        "Backend",
+        "Fullstack",
+        "Mobile",
+        "DevOps",
+        "Data Science",
+        "Machine Learning",
+        "Data Analysis",
+        "Data Visualization",
+        "Data Engineering"
+      ]
+    }
+  }
+}
